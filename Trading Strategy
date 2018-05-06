@@ -8,6 +8,8 @@ Trading Strategy
 2) Tensorflow-powered short-term price predictions
 3) Fundamental valuations (Quick Ratio, etc)
 
-We should analyze stocks daily and buy/sell when necessary. We should be able to calculate portfolio measurements on a daily basis as well. We could potentially build a simple UI to track performance.
+- We should analyze stocks daily and buy/sell when necessary. 
+- We should be able to calculate portfolio measurements on a daily basis as well. 
+- We could potentially build a simple UI to track performance.
 
 Trades will be executed through Robinhood API. This will cut down on transaction costs.
